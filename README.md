@@ -1,4 +1,4 @@
-# GoFood Full Stack App
+# GoFood - Full Stack Food Delievery Platform
 
 A full-stack food delivery application built using React, Node.js, Express, and MongoDB.
 
