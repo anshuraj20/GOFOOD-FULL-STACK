@@ -27,3 +27,16 @@ cd gofood-full-stack
 npm install
 cd frontend
 npm install
+```
+
+## Running the Project
+  #### Backend
+```bash
+cd backend
+npm run dev
+```
+  #### Frontend
+```bash
+cd frontend
+npm start
+```
